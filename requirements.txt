@@ -1,0 +1,8 @@
+tqdm
+transformers[flax]
+spu
+scikit-learn
+psutil
+pandas
+pyarrow
+fastparquet
